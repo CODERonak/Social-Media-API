@@ -1,8 +1,9 @@
-package code.SocialMediaAPI.usermodel.repository;
+package code.SocialMediaAPI.usermodule.repository;
 
-import code.SocialMediaAPI.usermodel.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
+
+import code.SocialMediaAPI.usermodule.model.User;
 
 import java.util.Optional;
 import java.util.UUID;

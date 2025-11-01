@@ -1,7 +1,8 @@
 package code.SocialMediaAPI.usermodule.mapper;
 
 import code.SocialMediaAPI.usermodule.dto.*;
-import code.SocialMediaAPI.usermodel.model.User;
+import code.SocialMediaAPI.usermodule.model.User;
+
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 

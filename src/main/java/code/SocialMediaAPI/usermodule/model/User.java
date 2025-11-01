@@ -1,4 +1,4 @@
-package code.SocialMediaAPI.usermodel.model;
+package code.SocialMediaAPI.usermodule.model;
 
 import code.SocialMediaAPI.core.enums.Role;
 import jakarta.persistence.*;
